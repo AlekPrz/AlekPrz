@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Alek and i'm from Warsaw. Reason why i started programming it's quite funny becouse i was video player (with big dreams to make a great career) and i wanted to make my own program which will calculate how time i spend on that and then my first "Hello World' was invented.
+I'm Alek and i'm from Warsaw. Reason why i started programming it's quite funny becouse i was video player (with big dreams to make a great career) and i wanted to make my own program which will calculate how time i spend on that. Then i wrote my "Hello World" first time.
 
 Here are some ideas to get you started:
 
