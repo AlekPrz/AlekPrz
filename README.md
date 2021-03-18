@@ -4,9 +4,12 @@ I'm Alek and i'm from Warsaw. Reason why I started programming it's quite funny 
 
 ## What I'm currently know and trying improve
 
+Actually I know how to create simple web appliction by using Spring Boot and Thymeleaf. By using Spring Boot I mean that I know how how to use MVC, JPA, Security,
+ 
 
 ## What I'm currently learning
 
+Ghithub, Javascript and after master that im going to take a look on React.js
 
 
 
