@@ -9,7 +9,8 @@ Actually I know how to create simple web appliction by using Spring Boot and Thy
 
 ## What I'm currently learning
 
-Ghithub, Javascript and after master that im going to take a look on React.js
+Git 
+Javascript and after master that im going to take a look on React
 
 
 
